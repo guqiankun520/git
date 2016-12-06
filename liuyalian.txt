@@ -1,3 +1,0 @@
-name:liuyalian
-age:21 years old
-love:sing
